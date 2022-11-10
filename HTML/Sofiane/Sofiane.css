@@ -1,0 +1,25 @@
+h1
+{
+	color: #516D98;
+	    font-family: Arial;
+}
+h2
+{
+	color: #2B4A78;
+	    font-family: Arial;
+}
+h3
+{
+	font-size:16px;
+	    font-family: Arial;
+	color: #2B4A78;
+}
+
+@font-face {
+    font-family: 'SourceCodePro-Regular';
+    src: url('SourceCodePro-Regular.otf');
+}
+body
+{
+	background-color: black;
+}
